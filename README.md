@@ -1,3 +1,3 @@
 # portfolio_mypage
-## MyPage ver1
+## MyPage ver.1
 簡易版マイページ
